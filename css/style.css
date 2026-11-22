@@ -586,3 +586,28 @@ a:focus-visible {
     grid-template-columns: 1fr;
   }
 }
+
+/* V0RTEX - Logo dynamique */
+.logo-slot {
+  display: block;
+  object-fit: contain;
+}
+
+.brand-icon.logo-slot {
+  width: 35px;
+  height: 35px;
+  flex-shrink: 0;
+}
+
+.core-symbol.logo-hero {
+  width: 190px;
+  height: 190px;
+  object-fit: contain;
+}
+
+.footer-mark.logo-slot {
+  width: 35px;
+  height: 35px;
+  background: transparent;
+  object-fit: contain;
+}
