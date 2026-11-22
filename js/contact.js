@@ -24,6 +24,6 @@ document.addEventListener("DOMContentLoaded", () => {
     );
 
     window.location.href =
-      `mailto:omega.professional.team@proton.me?subject=${subject}&body=${message}`;
+      `mailto:v0rtex.team@proton.me?subject=${subject}&body=${message}`;
   });
 });

@@ -7,7 +7,7 @@ V0RTEX est une boutique numérique expérimentale consacrée aux services web, a
 ## Identité
 
 - Nom : V0RTEX
-- Contact : omega.professional.team@proton.me
+- Contact : v0rtex.team@proton.me
 - Année : 2026
 - Type : site web statique
 - Hébergement prévu : GitHub Pages
